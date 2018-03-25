@@ -30,6 +30,8 @@ Make Sure The Modules Below Are Installed If NOT > use this command to install o
 * requests
 * sys
 
+For Ubuntu users : to install the ' socks ' module please type the following command : pip install PySocks
+
 # Contact : 
 
 Twitter.com/moh_security 
