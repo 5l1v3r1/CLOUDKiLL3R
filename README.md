@@ -1,6 +1,11 @@
 # CLOUDKiLL3R
 
-CLOUDKiLL3R bypasses Cloudflare protection service via TOR Browser ! 
+CLOUDKiLL3R bypasses Cloudflare protection service via TOR Browser using crimeflare !
+
+# Why CLOUDKiLL3R ? 
+
+* CLOUDKiLL3R scrapes data from crimeflare < other services will be added later on :) >  
+* It uses TOR BROWSER to avoide any blocks from crimeflare server ! 
 
 # CLOUDKiLL3R SCREENSHOT :
 
@@ -8,8 +13,8 @@ CLOUDKiLL3R bypasses Cloudflare protection service via TOR Browser !
 
 # CLOUDKiLL3R Requirements : 
 
-* TOR Browser to scan as many sites as you want :) 
-* Python Compiler
+* TOR Browser
+* Python Compiler 2.* 
 
 # CLOUDKiLL3R Installation ? 
 
